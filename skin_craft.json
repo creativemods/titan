@@ -169,7 +169,7 @@
       "addB_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon1(b).mcpack",
       "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon1(r).mcpack",
       "view_add":"file:///android_asset/ad1.png",
-      "des_add":"file:///android_asset/adon.html"
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
     },
     {
       "id":2,
@@ -178,7 +178,7 @@
       "addB_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(b).mcpack",
       "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(r).mcpack",
       "view_add":"file:///android_asset/ad2.png",
-      "des_add":"file:///android_asset/adon.html"
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
     }
   ],
   "Maps":
@@ -188,7 +188,7 @@
       "nama_map":"ATTACK OF TITAN MAP",
       "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
       "view_map":"file:///android_asset/map.png",
-      "des_map":"file:///android_asset/map.html"
+      "des_map":"https://creativemods.github.io/boboi/map.html"
     }
   ]
 }
