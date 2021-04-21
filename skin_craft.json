@@ -20,6 +20,30 @@
   [
     {
       "id":0,
+      "judul":"Master Billiard",
+      "image":"https://play-lh.googleusercontent.com/aebdbLx0BTVf4IOKBLNfn4sAgH1xVr7egimeiE1yfbUvas-pO87YCNiLN4G8bFVJhXE=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.master.billiard.offline"
+    },
+    {
+      "id":0,
+      "judul":"Block Puzzle",
+      "image":"https://play-lh.googleusercontent.com/aJr_-_liZc1DyskNzFm5iuKkVG9dnHdWtqsatv53rtm0jTr3B_I2XLasGOAFhENEwQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=game.colors.blockpuzzle"
+    },
+    {
+      "id":0,
+      "judul":"Classic Puzzle",
+      "image":"https://play-lh.googleusercontent.com/iWnz8XC_l7Yhx0gIdZXGj2NadMV-CEDQdslVKAF9jtZgX8Zb3ri_iwH2sK55AtpP0ag=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=game.puzzle.colorpuzzle"
+    },
+    {
+      "id":0,
+      "judul":"Wood Puzzle",
+      "image":"https://play-lh.googleusercontent.com/VRgTue3gNgFjzcuDz49GpagbxPWyyTx2vnYa1Wnvm8j1cf3R9vGPwVchh6sG4trcFMI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.classicjewelpuzzle.game.blockpuzzle"
+    },
+    {
+      "id":0,
       "judul":"Kawaii",
       "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
@@ -36,7 +60,7 @@
       "image":"https://play-lh.googleusercontent.com/QYAvF7FIjPTfMDkVyOBKLtpOGF3Qx2I_AWFhSIgO6PGRE0lFQUTYxDWQrSNVpQzAbZo=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.creativemods.zombieskinminecraft"
     },
-	{
+    {
       "id":0,
       "judul":"BTS Boyband",
       "image":"https://play-lh.googleusercontent.com/J_HtYjBQcvXRA5j3rAbZ2atmrjmlF1Y2DgIji0kGcaiP8DVxczEtXobcalCl3H5zJgM=s180-rw",
@@ -53,6 +77,12 @@
       "judul":"PinkGirl Princess",
       "image":"https://play-lh.googleusercontent.com/e-1hecrDWSXBHEvxEF0JawlqKL6tIpjV5J9Vtvf-OPJdSmOGCrvVAF0cMjRUkccHFGGh=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.creativemods.PinkGirlSkinCraft"
+    },
+    {
+      "id":0,
+      "judul":"Attack on Titan",
+      "image":"https://play-lh.googleusercontent.com/5dYYw-zmRu39-0b1ltpppbdoDV5aUY6bfZWyjih7vqclQAkufXZtKex-eCbJXcpUvg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.skinattackoftitanmod"
     },
     {
       "id":0,
@@ -95,6 +125,48 @@
       "judul":"Battleground",
       "image":"https://play-lh.googleusercontent.com/x7B6ERVWW51qQ9KL7l-1YW2FzZxGRmmaElfJAzXfg3w4EWGHx48YK5gSjUEkyR6KcbUH=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.creativemods.battlegroundskincraft"
+    },
+    {
+      "id":0,
+      "judul":"Weapon Add-ons",
+      "image":"https://play-lh.googleusercontent.com/v8GqXwZPhe02n0g0Xgp8QbwKp8zQk9WbLwWTDyUeGGqygLozoPvGhhT2lxwkERLzSdg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.WeaponAddonCraft"
+    },
+    {
+      "id":0,
+      "judul":"Among-us",
+      "image":"https://play-lh.googleusercontent.com/smMq0d744J_FK5MRXgnYml6t3TGHILKkVW-lyfabcuu2EK0Gi-bR29hj1BgUitWsAMYj=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.amongUSskinCraft"
+    },
+    {
+      "id":0,
+      "judul":"Pixelmon",
+      "image":"https://play-lh.googleusercontent.com/OnALx4C7g-1kEDkuiFCy59qH-3nmVekdl1ZoF7Ns4Lh_X6DUOkHgRSrIFTQcEs-lGw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.pixelmonmcpe"
+    },
+    {
+      "id":0,
+      "judul":"Minions",
+      "image":"https://play-lh.googleusercontent.com/dEYdDphfqeecA0Qk3sAfVURifi1DeqasUETkJ4dKtdzezk5yiT26ERgasBFYrMldEGg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.MinionSkinsCraftPE"
+    },
+    {
+      "id":0,
+      "judul":"Yandere High School",
+      "image":"https://play-lh.googleusercontent.com/dfBsNLm4tBssL2RsV1ZfypTm41P4u09FGF5qGefFTGgZKyQeS-6xE6vOUkT-xagpvso=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.YandereSkinsCraft"
+    },
+    {
+      "id":0,
+      "judul":"Mermaid",
+      "image":"https://play-lh.googleusercontent.com/JHyImYD_Nx-3vI5MnpmGj_DS8M5TP-CE6Lh6ErelyNggFsoFcrYZgj4a3L5cndVsdU3O=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.MermaidSkinsCraft"
+    },
+    {
+      "id":0,
+      "judul":"Super Mario World",
+      "image":"https://play-lh.googleusercontent.com/Ezzn0UqKwOBpgnnVSOhWSf0cyiQ8gtWuxJ8QJI9g7P0fWlcXYpHzHzanhmillCKSXg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.MarioBrossSkinsMinecraftPE"
     }
   ],
   "Skin":
